@@ -1,0 +1,10 @@
+name: ColorName
+main: works.baehyeonwoo.colorname.ColorMain
+version: 0.1
+website: https://baehyeonwoo.works/
+author: BaeHyeonWoo | qogusdn1017
+description: "Change Your DisplayName Color."
+api-version: 1.13
+commands:
+  color:
+    description: "Change Your DisplayName Color."
