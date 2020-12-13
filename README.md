@@ -6,3 +6,9 @@ Minecraft Player DisplayName color changer.
 > `gradlew clean shadowJar`
 
 ---
+
+## TODO
+
+> - YAML Configuration
+
+---
